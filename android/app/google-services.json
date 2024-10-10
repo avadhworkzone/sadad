@@ -1,0 +1,207 @@
+{
+  "project_info": {
+    "project_number": "292201383185",
+    "firebase_url": "https://sadad-payment-solutions-323c9.firebaseio.com",
+    "project_id": "sadad-payment-solutions-323c9",
+    "storage_bucket": "sadad-payment-solutions-323c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292201383185:android:f0a502c18f70b1ac69b8b0",
+        "android_client_info": {
+          "package_name": "com.sadadpos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292201383185-n31qe77vi22u7igffofde66dgq3nqgn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgXbUa_04zZZNGYOc7chVP7RF683pGfsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292201383185-n31qe77vi22u7igffofde66dgq3nqgn3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292201383185-06klsot7kr8g2vkrg1v329r3h9phen4o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sadadqa.business"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292201383185:android:18f60e6a61a23d04",
+        "android_client_info": {
+          "package_name": "com.sadadqa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292201383185-n31qe77vi22u7igffofde66dgq3nqgn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgXbUa_04zZZNGYOc7chVP7RF683pGfsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292201383185-n31qe77vi22u7igffofde66dgq3nqgn3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292201383185-06klsot7kr8g2vkrg1v329r3h9phen4o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sadadqa.business"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292201383185:android:abcac0909f783b0769b8b0",
+        "android_client_info": {
+          "package_name": "com.sadadqa.business"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292201383185-u6p0nkm97rpg5ua9o8ftk3un68tbqbh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sadadqa.business",
+            "certificate_hash": "3cbf68df9f734d486126e400d61f0d3d30417a7a"
+          }
+        },
+        {
+          "client_id": "292201383185-n31qe77vi22u7igffofde66dgq3nqgn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgXbUa_04zZZNGYOc7chVP7RF683pGfsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292201383185-n31qe77vi22u7igffofde66dgq3nqgn3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292201383185-06klsot7kr8g2vkrg1v329r3h9phen4o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sadadqa.business"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292201383185:android:7ba40b8a7ec50be169b8b0",
+        "android_client_info": {
+          "package_name": "com.sadadqa.merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292201383185-n3k4cb33krdaae8hdovr4h48gbnoc29j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sadadqa.merchant",
+            "certificate_hash": "3cbf68df9f734d486126e400d61f0d3d30417a7a"
+          }
+        },
+        {
+          "client_id": "292201383185-n31qe77vi22u7igffofde66dgq3nqgn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgXbUa_04zZZNGYOc7chVP7RF683pGfsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292201383185-n31qe77vi22u7igffofde66dgq3nqgn3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292201383185-06klsot7kr8g2vkrg1v329r3h9phen4o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sadadqa.business"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292201383185:android:d9ca773b72c8eb6169b8b0",
+        "android_client_info": {
+          "package_name": "com.sadadqapay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292201383185-n31qe77vi22u7igffofde66dgq3nqgn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgXbUa_04zZZNGYOc7chVP7RF683pGfsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292201383185-n31qe77vi22u7igffofde66dgq3nqgn3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292201383185-06klsot7kr8g2vkrg1v329r3h9phen4o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sadadqa.business"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
